@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7017892.css",
-    "main.js": "/static/js/main.d9dd2317.js",
+    "main.css": "/static/css/main.cd99e634.css",
+    "main.js": "/static/js/main.09b5bc28.js",
     "static/js/787.b63836f7.chunk.js": "/static/js/787.b63836f7.chunk.js",
     "static/media/1667579812_5-sportishka-com-p-shutki-pro-mashini-instagram-5.jpeg": "/static/media/1667579812_5-sportishka-com-p-shutki-pro-mashini-instagram-5.ed89dfd905d541c36319.jpeg",
     "static/media/1667579844_3-sportishka-com-p-shutki-pro-mashini-instagram-3.jpeg": "/static/media/1667579844_3-sportishka-com-p-shutki-pro-mashini-instagram-3.8b15b64d64ba99f01bf2.jpeg",
@@ -11,12 +11,12 @@
     "static/media/1667579833_11-sportishka-com-p-shutki-pro-mashini-instagram-11.jpeg": "/static/media/1667579833_11-sportishka-com-p-shutki-pro-mashini-instagram-11.aa943be2118b45e73da8.jpeg",
     "static/media/logo-small.jpeg": "/static/media/logo-small.cc8d6134815136044800.jpeg",
     "index.html": "/index.html",
-    "main.d7017892.css.map": "/static/css/main.d7017892.css.map",
-    "main.d9dd2317.js.map": "/static/js/main.d9dd2317.js.map",
+    "main.cd99e634.css.map": "/static/css/main.cd99e634.css.map",
+    "main.09b5bc28.js.map": "/static/js/main.09b5bc28.js.map",
     "787.b63836f7.chunk.js.map": "/static/js/787.b63836f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7017892.css",
-    "static/js/main.d9dd2317.js"
+    "static/css/main.cd99e634.css",
+    "static/js/main.09b5bc28.js"
   ]
 }
