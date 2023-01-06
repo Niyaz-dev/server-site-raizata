@@ -8,6 +8,10 @@ const User = sequelize.define('user', {
     role: {type: DataTypes.STRING, defaultValue: "USER"},
 })
 
+const Basket = sequelize.define('basket', {
+    id: {type: DataTypes.INTEGER, primaryKey: true, autoIncrement: true},
+})
+
 const Detail = sequelize.define('detail', {
     id: {type: DataTypes.INTEGER, primaryKey: true, unique: true, autoIncrement: true},
     idExt: {type: DataTypes.INTEGER, unique: true},
@@ -38,5 +42,6 @@ const Detail = sequelize.define('detail', {
 
 module.exports = {
     User,
-    Detail
+    Detail,
+    Basket
 }
